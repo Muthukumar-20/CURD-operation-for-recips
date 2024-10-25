@@ -3,7 +3,6 @@ import cors from "cors";
 import dotenv from "dotenv";
 import connectDB from "./Database/dbConfig.js";
 import Rescipe from "./Router/Rescipe.js";
-// import Resipe
 
 dotenv.config();
 
